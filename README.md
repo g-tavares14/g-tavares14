@@ -1,103 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2cbf,100:f72585&height=200&section=header&text=Guilherme%20Tavares&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Player%201%20%C2%B7%20Class%3A%20Data%20Engineering%20Student&descSize=18&descAlignY=58&animation=twinkling" width="100%" alt="Guilherme Tavares — Player 1" />
-
-<sub>DATA ENGINEERING · WELCOME TO MY PROFILE!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,50:0D47A1,100:1E88E5&height=200&section=header&text=Guilherme%20Tavares&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineering%20%C2%B7%20Pipelines%20%C2%B7%20Cloud%20%C2%B7%20Automation&descSize=17&descAlignY=59&animation=twinkling" width="100%" alt="Guilherme Tavares — Data Engineering, pipelines, cloud, and automation" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=F72585&center=true&vCenter=true&width=680&lines=Loading+player+profile...;Focus+unlocked%3A+Data+Engineering;Main+quest%3A+reliable+data+pipelines;Press+START+to+continue" alt="Loading player profile; focus: Data Engineering and reliable data pipelines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+reliable+data+workflows;Exploring+cloud+data+engineering;Automation+with+measurable+impact" alt="Building reliable data workflows, exploring cloud data engineering, and creating automation with measurable impact" />
 </a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5d4?style=for-the-badge&labelColor=0d0221" alt="Status: online" />
-<img src="https://img.shields.io/badge/CLASS-DATA%20ENGINEERING-7b2cbf?style=for-the-badge&labelColor=0d0221" alt="Focus: Data Engineering" />
-<img src="https://img.shields.io/badge/SERVER-BRAZIL-f72585?style=for-the-badge&labelColor=0d0221" alt="Based in Brazil" />
 
 </div>
 
 ---
 
-## 🎮 Player status
+I'm **Guilherme**, a Computer Science student and Pricing Strategy & Operations Intern at LinkedIn, building my path into Data Engineering. I also have a background in Production Engineering, which shaped my interest in process improvement.
 
-| | |
+At LinkedIn, I build and maintain data pipelines and internal tools for pricing and operations workflows. I also work with Python automation, API integrations, and Power BI dashboards, focusing on data reliability and operational efficiency.
+
+## 🧰 Skills & tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,aws,docker,git,ts,java&perline=8&theme=dark" alt="Python, PostgreSQL, MySQL, AWS, Docker, Git, TypeScript, and Java" />
+</p>
+
+| Area | Current toolkit |
 | --- | --- |
-| **PLAYER** | Guilherme Tavares |
-| **CLASS** | Computer Science student focused on Data Engineering |
-| **GUILD** | LinkedIn · Pricing Strategy & Operations Intern |
-| **MAIN QUEST** | Reliable data pipelines and cloud data workflows |
+| **Data engineering & analytics** | Python · SQL · PostgreSQL · Data pipelines · Data validation · API integrations · Power BI · Qlik Sense |
+| **Cloud & DevOps** | AWS · Docker · Terraform · Git |
+| **Software engineering** | TypeScript · Java · Spring Boot · LangChain · React · Next.js · Angular |
 
-### Skill tree
+## Featured projects
 
-| Skill | Current experience |
-| --- | --- |
-| Python | Workflow automation |
-| SQL | Query optimization and data analysis |
-| Data pipelines | Data collection and reliability |
-| Data validation | Operational automation |
-| AWS | Lambda and S3 project work |
+### [📡 Preditor de Falhas ML](https://github.com/g-tavares14/preditor-de-falhas-ml)
 
----
+A network reliability project that collects and processes RIPE Atlas measurements with a reusable data collector, AWS Lambda, and Amazon S3. The current focus is building a dependable data foundation for future analysis.
+
+**Python** · **AWS Lambda** · **Amazon S3**
+
+### [🌱 Agro-Gestão](https://github.com/g-tavares14/agro-gestao-fatec)
+
+An agricultural management platform built with FATEC Mogi das Cruzes. It uses a PostgreSQL data layer and integrates Gemini API to extract production-cost data from EMATER PDFs, helping farmers plan crop costs and projected profitability.
+
+**Java** · **Spring Boot** · **Angular** · **PostgreSQL** · **Gemini API**
+
+### [🛡️ NetGuard ML](https://github.com/g-tavares14/netguard-ml)
+
+An exploratory project using network traffic data to develop a reproducible machine learning workflow for attack detection.
+
+**Python** · **Network traffic analysis**
 
 ## 🏆 Achievements unlocked
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚡ Speedrunner</h3>
-      <b>40s → 1.4s</b><br/>
-      <sub>Reduced a SQL query's response time with a caching solution</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🪄 Automation Mage</h3>
-      <b>~50 h / month saved</b><br/>
-      <sub>Automated invoice validation with Python RPA</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🗺️ Quest log
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/MAIN%20QUEST-IN%20PROGRESS-f72585?style=flat-square&labelColor=0d0221" alt="Main quest in progress" /><br/>
-      <h3><a href="https://github.com/g-tavares14/preditor-de-falhas-ml">📡 Preditor de Falhas ML</a></h3>
-      <p>Collect and process RIPE Atlas network measurements with a reusable data collector, an AWS Lambda workflow, and S3 data handling — the foundation for network reliability analysis.</p>
-      <sub>🎒 Python · AWS Lambda · Amazon S3</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/CO--OP%20QUEST-FATEC-7b2cbf?style=flat-square&labelColor=0d0221" alt="Co-op quest with FATEC" /><br/>
-      <h3><a href="https://github.com/g-tavares14/agro-gestao-fatec">🌱 Agro-Gestão</a></h3>
-      <p>Built with FATEC Mogi das Cruzes to help smallholder farmers manage production, operations, and finances, including AI-assisted document data extraction.</p>
-      <sub>🎒 Java · AI-assisted data extraction</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/SIDE%20QUEST-EXPLORATION-00f5d4?style=flat-square&labelColor=0d0221" alt="Side quest: exploration" /><br/>
-      <h3><a href="https://github.com/g-tavares14/netguard-ml">🛡️ NetGuard ML</a></h3>
-      <p>An exploratory project using network traffic data to develop a reproducible machine learning workflow for attack detection.</p>
-      <sub>🎒 Python · Network traffic analysis</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## ⚔️ Inventory
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,java,postgres,mysql,aws,docker,git&perline=8&theme=dark" alt="Python, TypeScript, Java, PostgreSQL, MySQL, AWS, Docker, and Git" />
-</p>
-
-| Slot | Equipped |
-| --- | --- |
-| 🗡️ **Languages** | Python · SQL · TypeScript · Java |
-| 🛡️ **Data & analytics** | Data pipelines · Data validation · PostgreSQL · MySQL · Power BI |
-| 💎 **Cloud & tools** | AWS Lambda · Amazon S3 · Docker · Git |
-
----
+- **40s → 1.4s:** improved a SQL query's response time at LinkedIn with a caching solution.
+- **~50 hours saved per month:** automated validation of about 400 invoices per month with Python RPA.
+- **80% faster supplier registration:** built a Python integration with the SintegraWS API.
+- **~R$100,000 in estimated annual savings:** developed a purchase requisition app with Power Apps.
 
 ## 🐍 Contribution arena
 
@@ -111,18 +65,14 @@
 
 <div align="center">
 
-### 🤝 Join my party
+### 🤝 Let's connect
 
-Up for co-op on data engineering, pipelines, and automation.
+Always glad to connect with people working on data engineering, pipelines, and automation.
 
 <a href="https://www.linkedin.com/in/gtavares14/">
-  <img src="https://img.shields.io/badge/SEND%20PARTY%20INVITE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" alt="Connect with me on LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=081B33" alt="Connect with me on LinkedIn" />
 </a>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1500&color=00F5D4&center=true&vCenter=true&width=420&lines=GAME+SAVED+%E2%9C%94;Continue%3F+%E2%96%B6+YES+%C2%B7+NO" alt="Game saved" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:7b2cbf,100:0d0221&height=110&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,50:0D47A1,100:081B33&height=100&section=footer" width="100%" alt="" />
 
 </div>
