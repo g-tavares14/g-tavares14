@@ -1,78 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:081B33,50:0D47A1,100:1E88E5&height=200&section=header&text=Guilherme%20Tavares&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Data%20Engineering%20%C2%B7%20Pipelines%20%C2%B7%20Cloud%20%C2%B7%20Automation&descSize=17&descAlignY=59&animation=twinkling" width="100%" alt="Guilherme Tavares — Data Engineering, pipelines, cloud, and automation" />
+<img src="assets/banner.svg" width="100%" alt="Guilherme Tavares: Software Engineering · Go. Back-end, dados e cloud." />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+reliable+data+workflows;Exploring+cloud+data+engineering;Automation+with+measurable+impact" alt="Building reliable data workflows, exploring cloud data engineering, and creating automation with measurable impact" />
-</a>
+<br />
+
+<a href="https://www.linkedin.com/in/gtavares14/"><img src="https://img.shields.io/badge/LinkedIn-gtavares14-2A52BE?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn: gtavares14" /></a>
+<a href="mailto:g.tavares14@icloud.com"><img src="https://img.shields.io/badge/E--mail-g.tavares14%40icloud.com-FF2E7E?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0A0A0A" alt="E-mail: g.tavares14@icloud.com" /></a>
+<img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-2A52BE?style=for-the-badge&labelColor=0A0A0A" alt="AWS Certified AI Practitioner" />
+<img src="https://komarev.com/ghpvc/?username=g-tavares14&label=visitas&color=FF2E7E&style=for-the-badge" alt="Visitas ao perfil" />
 
 </div>
 
----
+## `$ cat sobre-mim.md`
 
-I'm **Guilherme**, a Computer Science student and Pricing Strategy & Operations Intern at LinkedIn, building my path into Data Engineering. I also have a background in Production Engineering, which shaped my interest in process improvement.
+Estudo Ciência da Computação e sou estagiário de Pricing Strategy & Operations no LinkedIn. Nos meus projetos, escrevo APIs em Go com Postgres, testes e CI.
 
-At LinkedIn, I build and maintain data pipelines and internal tools for pricing and operations workflows. I also work with Python automation, API integrations, and Power BI dashboards, focusing on data reliability and operational efficiency.
+No estágio, construí de ponta a ponta o pipeline de dados do time no Microsoft Fabric. São notebooks PySpark que rodam todo dia e juntam Trino, Salesforce e planilhas numa fonte única. Em cima disso, um agente de IA responde as perguntas dos stakeholders que antes custavam cerca de uma hora de queries manuais cada.
 
-## 🧰 Skills & tools
+Agora estou estudando Go com os exercícios de *The Go Programming Language*, de Donovan e Kernighan. Antes de Computação, cursei Engenharia de Produção, e meu interesse por melhoria de processos começou lá.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,aws,docker,git,ts,java&perline=8&theme=dark" alt="Python, PostgreSQL, MySQL, AWS, Docker, Git, TypeScript, and Java" />
-</p>
+Se quiser conversar sobre back-end em Go, engenharia de dados ou automação, me chama no LinkedIn.
 
-| Area | Current toolkit |
-| --- | --- |
-| **Data engineering & analytics** | Python · SQL · PostgreSQL · Data pipelines · Data validation · API integrations · Power BI · Qlik Sense |
-| **Cloud & DevOps** | AWS · Docker · Terraform · Git |
-| **Software engineering** | TypeScript · Java · Spring Boot · LangChain · React · Next.js · Angular |
+## `$ ls ./stack`
 
-## Featured projects
+**Linguagens**
 
-### [📡 Preditor de Falhas ML](https://github.com/g-tavares14/preditor-de-falhas-ml)
+![Go](https://img.shields.io/badge/Go-2A52BE?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2A52BE?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2A52BE?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2A52BE?style=for-the-badge&logo=postgresql&logoColor=white)
 
-A network reliability project that collects and processes RIPE Atlas measurements with a reusable data collector, AWS Lambda, and Amazon S3. The current focus is building a dependable data foundation for future analysis.
+**Back-end e dados**
 
-**Python** · **AWS Lambda** · **Amazon S3**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=FF2E7E)
+![PySpark](https://img.shields.io/badge/PySpark-0A0A0A?style=for-the-badge&logo=apachespark&logoColor=FF2E7E)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF2E7E)
 
-### [🌱 Agro-Gestão](https://github.com/g-tavares14/agro-gestao-fatec)
+**Cloud e DevOps**
 
-An agricultural management platform built with FATEC Mogi das Cruzes. It uses a PostgreSQL data layer and integrates Gemini API to extract production-cost data from EMATER PDFs, helping farmers plan crop costs and projected profitability.
+![AWS](https://img.shields.io/badge/AWS-FF2E7E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-FF2E7E?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-FF2E7E?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-FF2E7E?style=for-the-badge&logo=pulumi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF2E7E?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Java** · **Spring Boot** · **Angular** · **PostgreSQL** · **Gemini API**
+## `$ git log --projetos`
 
-### [🛡️ NetGuard ML](https://github.com/g-tavares14/netguard-ml)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/g-tavares14/go-auth-api">go-auth-api</a></h3>
+      API de autenticação com JWT. Quando o usuário troca a senha, os tokens emitidos antes param de valer, e isso funciona sem tabela de revogação. O login tem rate limit por e-mail, por IP e pelo par e-mail + IP.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-2A52BE?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=FF2E7E" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Docker-FF2E7E?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/g-tavares14/golang-library">golang-library</a></h3>
+      API REST de livros e usuários organizada em camadas. O papel de user ou admin vem do token assinado, e o CI roda testes unitários, de integração e ponta a ponta contra um Postgres descartável.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-2A52BE?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=FF2E7E" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-FF2E7E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/g-tavares14/preditor-de-falhas-ml">preditor-de-falhas-ml</a></h3>
+      Projeto da faculdade que classifica rotas de rede como OK, RISCO ou FALHA a partir de medições do RIPE Atlas. Cada rota é comparada com o próprio histórico, e não com um limite fixo em ms. Os dados passam por um pipeline em PySpark, o modelo é um Random Forest do scikit-learn, e a API e o site rodam num servidor em Go.
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-2A52BE?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PySpark-0A0A0A?style=flat-square&logo=apachespark&logoColor=FF2E7E" alt="PySpark" />
+      <img src="https://img.shields.io/badge/Go-FF2E7E?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://meirellespsico.com.br">Landing page de psicologia</a></h3>
+      Site de uma psicóloga em HTML estático, num bucket S3 privado atrás do CloudFront, com a infraestrutura escrita em Go usando Pulumi. As visitas são contadas por um coletor próprio que não usa cookies. O Google Tag só carrega depois que o visitante aceita.
+      <br /><br />
+      <img src="https://img.shields.io/badge/React-2A52BE?style=flat-square&logo=react&logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/Pulumi-0A0A0A?style=flat-square&logo=pulumi&logoColor=FF2E7E" alt="Pulumi" />
+      <img src="https://img.shields.io/badge/AWS-FF2E7E?style=flat-square" alt="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/g-tavares14/codewars-sync">codewars-sync</a></h3>
+      Extensão do Chrome para o Codewars. Quando eu envio uma kata, ela grava a solução e o enunciado no GitHub em um único commit. É ela que alimenta o <a href="https://github.com/g-tavares14/codewars-solutions">codewars-solutions</a>.
+      <br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-2A52BE?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/GitHub_API-0A0A0A?style=flat-square&logo=github&logoColor=FF2E7E" alt="GitHub API" />
+    </td>
+  </tr>
+</table>
 
-An exploratory project using network traffic data to develop a reproducible machine learning workflow for attack detection.
+## `$ cat conquistas.log`
 
-**Python** · **Network traffic analysis**
+| Resultado | O que foi |
+|---|---|
+| 1º lugar | Hackathon interna Small Group Training do LinkedIn. Fiquei com a parte técnica numa equipe de 6 pessoas |
+| 40 s para 1,4 s | Tempo de resposta de consultas SQL no LinkedIn, depois que criei um cache |
+| 1 semana para 30 min | Tempo para analisar distorções nos dados que chegam da origem |
+| ~50 h por mês | Trabalho manual que um RPA em Python passou a fazer, validando cerca de 400 notas fiscais por mês |
 
-## 🏆 Achievements unlocked
-
-- **40s → 1.4s:** improved a SQL query's response time at LinkedIn with a caching solution.
-- **~50 hours saved per month:** automated validation of about 400 invoices per month with Python RPA.
-- **80% faster supplier registration:** built a Python integration with the SintegraWS API.
-- **~R$100,000 in estimated annual savings:** developed a purchase requisition app with Power Apps.
-
-## 🐍 Contribution arena
+## `$ gh contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-tavares14/g-tavares14/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-tavares14/g-tavares14/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/g-tavares14/g-tavares14/output/github-snake-dark.svg" />
+  <img alt="Cobra percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/g-tavares14/g-tavares14/output/github-snake-dark.svg" />
 </picture>
 
 ---
 
-<div align="center">
-
-### 🤝 Let's connect
-
-Always glad to connect with people working on data engineering, pipelines, and automation.
-
-<a href="https://www.linkedin.com/in/gtavares14/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=081B33" alt="Connect with me on LinkedIn" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,50:0D47A1,100:081B33&height=100&section=footer" width="100%" alt="" />
-
-</div>
+<p align="center"><code>$ exit</code> · Obrigado pela visita.</p>

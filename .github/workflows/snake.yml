@@ -19,9 +19,11 @@ jobs:
         uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Paleta do README: cobra em neon rose (#FF2E7E); quadrados em tons de cerulean blue,
+          # do dia sem contribuição até o dia com mais contribuições.
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#FF2E7E&color_dots=#ebedf0,#c3d0f2,#8ea6e6,#4f74d4,#2A52BE
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF2E7E&color_dots=#161b22,#0f2350,#1a3a8a,#2A52BE,#6E8FE8
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
