@@ -1,0 +1,55 @@
+name: Codewars card
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tools/codewars-card/**"
+      - ".github/workflows/codewars-card.yml"
+  # On a pull request the card is drawn but not published, to check that the
+  # Codewars API answers from GitHub's runners.
+  pull_request:
+    paths:
+      - "tools/codewars-card/**"
+      - ".github/workflows/codewars-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: codewars-card-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-go@d8cbb8045d7f43706b9177cceb36c1f91a6644d5 # v7.1.0
+        with:
+          go-version: stable
+          cache: false
+
+      - name: Test
+        working-directory: tools/codewars-card
+        run: go test ./...
+
+      - name: Draw the card
+        working-directory: tools/codewars-card
+        run: go run . -user g-tavares14 -out "$GITHUB_WORKSPACE/dist/codewars.svg"
+
+      - name: Publish to the output branch
+        if: github.event_name != 'pull_request'
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
