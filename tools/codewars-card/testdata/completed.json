@@ -1,0 +1,573 @@
+{
+  "totalPages": 1,
+  "totalItems": 63,
+  "data": [
+    {
+      "id": "59ca8246d751df55cc00014c",
+      "name": "Is he gonna survive?",
+      "slug": "is-he-gonna-survive",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-19T01:53:09.336Z"
+    },
+    {
+      "id": "55fd2d567d94ac3bc9000064",
+      "name": "Sum of odd numbers",
+      "slug": "sum-of-odd-numbers",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-17T23:12:15.776Z"
+    },
+    {
+      "id": "5259b20d6021e9e14c0010d4",
+      "name": "Reverse words",
+      "slug": "reverse-words",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-16T11:50:16.841Z"
+    },
+    {
+      "id": "517abf86da9663f1d2000003",
+      "name": "Convert string to camel case",
+      "slug": "convert-string-to-camel-case",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-16T11:05:23.890Z"
+    },
+    {
+      "id": "57a083a57cb1f31db7000028",
+      "name": "Powers of 2",
+      "slug": "powers-of-2",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-15T18:18:26.592Z"
+    },
+    {
+      "id": "56bc28ad5bdaeb48760009b0",
+      "name": "Remove First and Last Character",
+      "slug": "remove-first-and-last-character",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-15T18:10:53.038Z"
+    },
+    {
+      "id": "55ecd718f46fba02e5000029",
+      "name": "What is between?",
+      "slug": "what-is-between",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-15T18:09:26.933Z"
+    },
+    {
+      "id": "57f781872e3d8ca2a000007e",
+      "name": "Beginner - Lost Without a Map",
+      "slug": "beginner-lost-without-a-map",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-14T00:43:43.186Z"
+    },
+    {
+      "id": "56efc695740d30f963000557",
+      "name": "altERnaTIng cAsE <=> ALTerNAtiNG CaSe",
+      "slug": "alternating-case-<-equals->-alternating-case",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-14T00:41:45.485Z"
+    },
+    {
+      "id": "55f2b110f61eb01779000053",
+      "name": "Beginner Series #3 Sum of Numbers",
+      "slug": "beginner-series-number-3-sum-of-numbers",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-14T00:40:09.361Z"
+    },
+    {
+      "id": "58235a167a8cb37e1a0000db",
+      "name": "Pair of gloves",
+      "slug": "pair-of-gloves",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T19:49:55.556Z"
+    },
+    {
+      "id": "54b42f9314d9229fd6000d9c",
+      "name": "Duplicate Encoder",
+      "slug": "duplicate-encoder",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T19:30:03.502Z"
+    },
+    {
+      "id": "54bf1c2cd5b56cc47f0007a1",
+      "name": "Counting Duplicates",
+      "slug": "counting-duplicates",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T16:23:20.623Z"
+    },
+    {
+      "id": "54da5a58ea159efa38000836",
+      "name": "Find the odd int",
+      "slug": "find-the-odd-int",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T15:41:44.767Z"
+    },
+    {
+      "id": "52c31f8e6605bcc646000082",
+      "name": "Two Sum",
+      "slug": "two-sum",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T15:24:43.128Z"
+    },
+    {
+      "id": "5656b6906de340bd1b0000ac",
+      "name": "Two to One",
+      "slug": "two-to-one",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T14:20:14.391Z"
+    },
+    {
+      "id": "57a6633153ba33189e000074",
+      "name": "Ordered Count of Characters",
+      "slug": "ordered-count-of-characters",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-12T00:16:58.078Z"
+    },
+    {
+      "id": "5b39e3772ae7545f650000fc",
+      "name": "Remove duplicate words",
+      "slug": "remove-duplicate-words",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T18:57:18.452Z"
+    },
+    {
+      "id": "53369039d7ab3ac506000467",
+      "name": "Convert boolean values to strings 'Yes' or 'No'.",
+      "slug": "convert-boolean-values-to-strings-yes-or-no",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T17:44:36.068Z"
+    },
+    {
+      "id": "583f158ea20cfcbeb400000a",
+      "name": "Make a function that does arithmetic!",
+      "slug": "make-a-function-that-does-arithmetic",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T17:35:22.136Z"
+    },
+    {
+      "id": "585d7d5adb20cf33cb000235",
+      "name": "Find the unique number",
+      "slug": "find-the-unique-number-1",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T12:13:35.498Z"
+    },
+    {
+      "id": "57cebe1dc6fdc20c57000ac9",
+      "name": "Shortest Word",
+      "slug": "shortest-word",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T12:07:20.769Z"
+    },
+    {
+      "id": "55ad04714f0b468e8200001c",
+      "name": "get character from ASCII Value",
+      "slug": "get-character-from-ascii-value",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T12:01:36.467Z"
+    },
+    {
+      "id": "5a023c426975981341000014",
+      "name": "Third Angle of a Triangle",
+      "slug": "third-angle-of-a-triangle",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-11T11:22:35.849Z"
+    },
+    {
+      "id": "55685cd7ad70877c23000102",
+      "name": "Return Negative",
+      "slug": "return-negative",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-09T22:55:42.541Z"
+    },
+    {
+      "id": "555eded1ad94b00403000071",
+      "name": "Sum of the first nth term of Series",
+      "slug": "sum-of-the-first-nth-term-of-series",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-09T22:51:57.483Z"
+    },
+    {
+      "id": "5b077ebdaf15be5c7f000077",
+      "name": "If you can't sleep, just count sheep!!",
+      "slug": "if-you-cant-sleep-just-count-sheep",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-09T21:21:07.630Z"
+    },
+    {
+      "id": "55cbc3586671f6aa070000fb",
+      "name": "Grasshopper - Check for factor",
+      "slug": "grasshopper-check-for-factor",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-09T20:36:13.752Z"
+    },
+    {
+      "id": "51f2d1cafc9c0f745c00037d",
+      "name": "String ends with?",
+      "slug": "string-ends-with",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-08T23:18:40.825Z"
+    },
+    {
+      "id": "5899dc03bc95b1bf1b0000ad",
+      "name": "Invert values",
+      "slug": "invert-values",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-07T15:42:34.408Z"
+    },
+    {
+      "id": "57a1fd2ce298a731b20006a4",
+      "name": "Is it a palindrome?",
+      "slug": "is-it-a-palindrome",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-07T11:37:23.970Z"
+    },
+    {
+      "id": "5679aa472b8f57fb8c000047",
+      "name": "Equal Sides Of An Array",
+      "slug": "equal-sides-of-an-array",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-07T11:31:13.807Z"
+    },
+    {
+      "id": "56541980fa08ab47a0000040",
+      "name": "Printer Errors",
+      "slug": "printer-errors",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T18:57:06.784Z"
+    },
+    {
+      "id": "554e4a2f232cdd87d9000038",
+      "name": "Complementary DNA",
+      "slug": "complementary-dna",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T12:22:05.965Z"
+    },
+    {
+      "id": "5bb904724c47249b10000131",
+      "name": "Total amount of points",
+      "slug": "total-amount-of-points",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T11:07:35.552Z"
+    },
+    {
+      "id": "57eae65a4321032ce000002d",
+      "name": "Fake Binary",
+      "slug": "fake-binary",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T11:02:37.610Z"
+    },
+    {
+      "id": "57eae20f5500ad98e50002c5",
+      "name": "Remove String Spaces",
+      "slug": "remove-string-spaces",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T11:00:58.060Z"
+    },
+    {
+      "id": "521c2db8ddc89b9b7a0000c1",
+      "name": "Snail",
+      "slug": "snail",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T10:45:07.496Z"
+    },
+    {
+      "id": "51c8991dee245d7ddf00000e",
+      "name": "Reversed Words",
+      "slug": "reversed-words",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-06T10:38:03.925Z"
+    },
+    {
+      "id": "583710ccaa6717322c000105",
+      "name": "Simple multiplication",
+      "slug": "simple-multiplication",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-05T14:11:41.245Z"
+    },
+    {
+      "id": "5513795bd3fafb56c200049e",
+      "name": "Count by X",
+      "slug": "count-by-x",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-04T12:30:53.875Z"
+    },
+    {
+      "id": "5715eaedb436cf5606000381",
+      "name": "Sum of positive",
+      "slug": "sum-of-positive",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-04T12:01:49.756Z"
+    },
+    {
+      "id": "5583090cbe83f4fd8c000051",
+      "name": "Convert number to reversed array of digits",
+      "slug": "convert-number-to-reversed-array-of-digits",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-04T11:58:24.601Z"
+    },
+    {
+      "id": "5526fc09a1bbd946250002dc",
+      "name": "Find The Parity Outlier",
+      "slug": "find-the-parity-outlier",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-04T00:21:24.278Z"
+    },
+    {
+      "id": "53da3dbb4a5168369a0000fe",
+      "name": "Even or Odd",
+      "slug": "even-or-odd",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-04T00:01:56.693Z"
+    },
+    {
+      "id": "54ff3102c1bad923760001f3",
+      "name": "Vowel Count",
+      "slug": "vowel-count",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T20:03:22.553Z"
+    },
+    {
+      "id": "57e76bc428d6fbc2d500036d",
+      "name": "Convert a string to an array",
+      "slug": "convert-a-string-to-an-array",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T13:10:08.405Z"
+    },
+    {
+      "id": "57a0556c7cb1f31ab3000ad7",
+      "name": "MakeUpperCase",
+      "slug": "makeuppercase",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T13:06:07.735Z"
+    },
+    {
+      "id": "55a2d7ebe362935a210000b2",
+      "name": "Find the smallest integer in the array",
+      "slug": "find-the-smallest-integer-in-the-array",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T13:01:07.677Z"
+    },
+    {
+      "id": "54edbc7200b811e956000556",
+      "name": "Counting sheep...",
+      "slug": "counting-sheep-dot-dot-dot",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T12:57:06.902Z"
+    },
+    {
+      "id": "56606694ec01347ce800001b",
+      "name": "Is this a triangle?",
+      "slug": "is-this-a-triangle",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T11:43:56.994Z"
+    },
+    {
+      "id": "52fba66badcd10859f00097e",
+      "name": "Disemvowel Trolls",
+      "slug": "disemvowel-trolls",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-03T11:36:05.379Z"
+    },
+    {
+      "id": "5168bb5dfe9a00b126000018",
+      "name": "Reversed Strings",
+      "slug": "reversed-strings",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T22:25:20.524Z"
+    },
+    {
+      "id": "5a00e05cc374cb34d100000d",
+      "name": "Reversed sequence",
+      "slug": "reversed-sequence",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T16:26:40.834Z"
+    },
+    {
+      "id": "576bb71bbbcf0951d5000044",
+      "name": "Count of positives / sum of negatives",
+      "slug": "count-of-positives-slash-sum-of-negatives",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T16:20:02.345Z"
+    },
+    {
+      "id": "53ee5429ba190077850011d4",
+      "name": "You Can't Code Under Pressure #1",
+      "slug": "you-cant-code-under-pressure-number-1",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T16:12:46.101Z"
+    },
+    {
+      "id": "5a3fe3dde1ce0e8ed6000097",
+      "name": "Century From Year",
+      "slug": "century-from-year",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T16:00:04.909Z"
+    },
+    {
+      "id": "5875b200d520904a04000003",
+      "name": "Will there be enough space?",
+      "slug": "will-there-be-enough-space",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T15:52:17.183Z"
+    },
+    {
+      "id": "515e271a311df0350d00000f",
+      "name": "Square(n) Sum",
+      "slug": "square-n-sum",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T14:46:49.014Z"
+    },
+    {
+      "id": "57f780909f7e8e3183000078",
+      "name": "Beginner - Reduce but Grow",
+      "slug": "beginner-reduce-but-grow",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T14:32:50.794Z"
+    },
+    {
+      "id": "56dec885c54a926dcd001095",
+      "name": "Opposite number",
+      "slug": "opposite-number",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T13:24:24.661Z"
+    },
+    {
+      "id": "55f9bca8ecaa9eac7100004a",
+      "name": "Beginner Series #2 Clock",
+      "slug": "beginner-series-number-2-clock",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T13:06:48.743Z"
+    },
+    {
+      "id": "55cbd4ba903825f7970000f5",
+      "name": "Grasshopper - Grade book",
+      "slug": "grasshopper-grade-book",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2026-11-02T12:52:34.553Z"
+    }
+  ]
+}

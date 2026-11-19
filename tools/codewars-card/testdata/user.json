@@ -1,0 +1,29 @@
+{
+  "id": "6ae8824ac0a0750bcdda5858",
+  "username": "g-tavares14",
+  "name": "Guilherme Tavares",
+  "honor": 306,
+  "clan": null,
+  "leaderboardPosition": 299202,
+  "skills": null,
+  "ranks": {
+    "overall": {
+      "rank": -5,
+      "name": "5 kyu",
+      "color": "yellow",
+      "score": 248
+    },
+    "languages": {
+      "go": {
+        "rank": -5,
+        "name": "5 kyu",
+        "color": "yellow",
+        "score": 248
+      }
+    }
+  },
+  "codeChallenges": {
+    "totalAuthored": 0,
+    "totalCompleted": 63
+  }
+}
